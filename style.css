@@ -19,7 +19,7 @@ main{
     width: 375px;
     border-radius: 20px;
     padding: 44px 24px 23px;
-    margin: 0 auto;
+    margin: 0 auto 50px;
 }
 label{
     font-weight: 400;
